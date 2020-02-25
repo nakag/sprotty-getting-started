@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "lib": [
+            "es6", "dom"
+        ],
+        "types": [
+            "node", "reflect-metadata"
+        ],
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "noImplicitReturns": true,
+        "experimentalDecorators": true,
+        "jsx": "react",
+        "outDir": "lib",
+    },
+    "include": [
+        "./src"
+    ],
+    "exclude": [
+        "**/*.spec.ts", "**/*.spec.tsx"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "editor.formatOnSave": true
+}
