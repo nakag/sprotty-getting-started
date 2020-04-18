@@ -9,17 +9,17 @@
   ],
   "author": "nakag",
   "dependencies": {
-    "sprotty": "^0.7.0"
+    "sprotty": "^0.8.0"
   },
   "devDependencies": {
-    "@types/node": "^10.14.18",
-    "css-loader": "^3.4.2",
+    "@types/node": "^13.13.0",
+    "css-loader": "^3.5.2",
     "reflect-metadata": "^0.1.13",
     "source-map-loader": "^0.2.4",
-    "style-loader": "^1.1.3",
-    "ts-loader": "^6.2.1",
-    "typescript": "^3.7.4",
-    "webpack": "^4.41.5",
+    "style-loader": "^1.1.4",
+    "ts-loader": "^7.0.0",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.1",
     "webpack-cli": "^3.3.10"
   },
   "scripts": {
